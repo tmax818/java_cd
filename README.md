@@ -1,6 +1,5 @@
 # java_cd
 
-
 # assignments
 
 ## practice
